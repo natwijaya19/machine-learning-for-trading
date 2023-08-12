@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\kikim\AppData\Local\Programs\Python\Python311\Scripts\black.exe" />
+    <option name="sdkUUID" value="02c8ccea-53d6-4fe1-8b41-77e2ea345c4a" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="machine-learning-for-trading" project-jdk-type="Python SDK" />
 </project>
